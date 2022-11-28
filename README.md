@@ -1,6 +1,6 @@
 # Welcome
 I’m @ReneMuala, a software engineering student.
-### I usualy work with:
+### I usually work with:
   1. C++
   2. TypeScript
   4. Java
