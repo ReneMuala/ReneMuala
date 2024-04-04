@@ -10,7 +10,7 @@ I am René Descartes Domingos Muala, a dedicated software engineering student wi
 | Python | YOLO, numpy, matplolib, sklearn, opencv, FastAPI, OpenCV,  OpenCL,Tesseract |
 | Dart | Flutter, Shelf, CartesianVision(mine) |
 | Lua | Lapis, Kendra AI (mine) |
-| Java | Spring, Hibernate, Swing |
+| Java | Spring, Hibernate, Swing, Quarkus |
 | JS | Svelte, React, Preact, Lit, Alpine |
 | Swift | SwiftUI |
 | Assembly | glibc |
