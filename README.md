@@ -6,7 +6,7 @@ I am René Descartes Domingos Muala, a dedicated software engineering student wi
 
 | Languages | Frameworks and libraries |
 | --- | --- |
-| C and C++ | STL, OpenCV,  OpenCL,Tesseract, Dlib, Lanui (mine), Landb (mine) Drogon, Crow, SDL2, LibCurl,luapp |
+| C and C++ | STL, OpenCV,  OpenCL,Tesseract, Dlib, Lanui (mine), Landb (mine) Drogon, Crow, SDL2, LibCurl,luapp,ILC(mine) |
 | Python | YOLO, numpy, matplolib, sklearn, opencv, FastAPI, OpenCV,  OpenCL,Tesseract |
 | Dart | Flutter, Shelf, CartesianVision(mine) |
 | Lua | Lapis, Kendra AI (mine) |
