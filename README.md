@@ -1,6 +1,6 @@
 # Hello world!
 
-> I think, therefore i program
+> I think, therefore i code
 
 I am René Descartes Domingos Muala, a dedicated software engineering student with a profound passion for programming with philosophical roots.
 
