@@ -33,6 +33,9 @@ I am René Descartes Domingos Muala, a dedicated software engineering student wi
 - English
 - Portuguese
 - Cena
+
+## Buy me a coffe!
+[https://www.paypal.com/ncp/payment/CD5QW8EXBJFDG](https://www.paypal.com/ncp/payment/CD5QW8EXBJFDG)
 <!---
 ReneMuala/ReneMuala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
